@@ -1,0 +1,14 @@
+{
+  "name": "SocketIo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "socket.io": "^4.4.1"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
